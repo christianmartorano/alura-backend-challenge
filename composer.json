@@ -1,0 +1,16 @@
+{
+    "name": "christian/alura-backend-challenge",
+    "description": "The adopet alura backend challenge",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Christian Santos Martorano",
+            "email": "christian.santos@cotefacil.com"
+        }
+    ],
+    "require": {}
+}
