@@ -1,1 +1,3 @@
-# The project from the Alura backend challenge
+# The project from the Alura backend challenge !
+
+#### Initiating the project...
