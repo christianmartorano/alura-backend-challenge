@@ -1,0 +1,7 @@
+CREATE TABLE files (
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(255) NOT NULL,
+    data BYTEA NOT NULL,
+    created_at TIMESTAMP DEFAULT NOW(),
+    updated_at TIMESTAMP DEFAULT NOW(),
+);
