@@ -16,6 +16,8 @@
     ],
     "require": {
         "doctrine/orm": "^2.14",
-        "doctrine/dbal": "^3.6"
+        "doctrine/dbal": "^3.6",
+        "symfony/cache": "^6.2",
+        "doctrine/annotations": "1.14"
     }
 }
